@@ -1,12 +1,16 @@
 # School Management System
 
-[![Django](https://img.shields.io/badge/Django-3.2+-green.svg)](https://www.djangoproject.com/)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.txt)
+![HTML5](https://img.shields.io/badge/HTML-5-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-3-1572B6?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzE1NzJCNiIgZD0iTTEuNSAwaDIxbC0xLjkxIDIxLjU2M0wxMS45NzcgMjRsLTguNTY1LTIuNDM4TDEuNSAwbTcuMDkgNC40MTNMNS40MSA0LjQxbC4yMTMgMi42MjIgMTAuMTI1LjAwMi0uMjU1IDIuNzE2aC02LjY0bC4yNCAyLjU3M2g2LjE4MmwtLjM2NiAzLjUyMy0yLjkxLjgwNC0yLjk1Ni0uODEtLjE4OC0yLjExaC0yLjYxbC4yOSAzLjg1NUwxMiAxOS4yODhsNS4zNzMtMS41M0wxOC41OSA0LjQxNHoiLz48L3N2Zz4=)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript)
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-3.2+-092E20?style=flat-square&logo=django&logoColor=44B78B)](https://www.djangoproject.com/)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql)
+[![License](https://img.shields.io/badge/License-MIT-dfb317?style=flat-square)](LICENSE.txt)
 
 A comprehensive Django-based web application designed for school administrators to efficiently manage school records, including student data, staff information, academic results, and financial management.
 
-## 🚀 Features
+## Features
 
 ### Student Management
 - Add, update, delete, and view student details
@@ -52,7 +56,7 @@ A comprehensive Django-based web application designed for school administrators 
 - Data tables with sorting and filtering
 - Toast notifications
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Backend**: Django 3.2+
 - **Database**: SQLite (default), PostgreSQL/MySQL (configurable)
@@ -63,13 +67,13 @@ A comprehensive Django-based web application designed for school administrators 
 - **Notifications**: Toastr
 - **Other**: jQuery, OverlayScrollbars
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Python 3.8 or higher
 - pip (Python package installer)
 - Git (for cloning the repository)
 
-## 🚀 Installation and Setup
+## Installation and Setup
 
 ### 1. Clone the Repository
 ```bash
@@ -110,15 +114,15 @@ python manage.py runserver
 ### 7. Access the Application
 Open your browser and navigate to: `http://127.0.0.1:8000/`
 
-## 🔐 Default Admin Credentials
+## Default Admin Credentials
 
 A default superuser is created during the initial migration:
 - **Username**: admin
 - **Password**: admin123
 
-> **⚠️ Security Note**: Change the default password immediately after first login in a production environment.
+> **Security Note**: Change the default password immediately after first login in a production environment.
 
-## 📖 Usage
+## Usage
 
 1. **Login**: Use admin credentials to access the dashboard
 2. **Dashboard Navigation**:
@@ -135,7 +139,7 @@ A default superuser is created during the initial migration:
    - Configure terms and classes
    - Customize system preferences
 
-## 🧪 Testing
+## Testing
 
 Run the test suite to ensure everything is working correctly:
 ```bash
@@ -151,7 +155,7 @@ python manage.py test apps.finance
 python manage.py test apps.result
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 School-Management-System/
@@ -175,7 +179,7 @@ School-Management-System/
 └── README.md                      # Project documentation
 ```
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Please follow these steps:
 
@@ -203,15 +207,15 @@ isort .
 black .
 ```
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
 
-## 🔒 Security
+## Security
 
 For security policies and reporting vulnerabilities, please see [SECURITY.md](SECURITY.md).
 
-## 🗺️ Roadmap
+## Roadmap
 
 - [ ] Multi-language support (i18n)
 - [ ] REST API for mobile app integration
@@ -223,7 +227,7 @@ For security policies and reporting vulnerabilities, please see [SECURITY.md](SE
 - [ ] Mobile-responsive improvements
 - [ ] Performance optimizations
 
-## 📞 Support
+## Support
 
 If you have any questions or need help:
 
@@ -233,7 +237,7 @@ If you have any questions or need help:
 - Mobile : 9110395993
 - EmailID : madhanmohanreddyperam06@gmail.com
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Django framework and community
 - Bootstrap for UI components
