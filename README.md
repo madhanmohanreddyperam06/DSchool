@@ -310,5 +310,20 @@ DSchool/
 | **Contributing** | Fork the repo, create a feature branch (`git checkout -b feature/your-feature`), run tests and `isort .` / `black .`, and open a Pull Request. |
 | **License** | Licensed under the MIT License — see [LICENSE.txt](LICENSE.txt). |
 | **Security** | Review reporting guidelines in [SECURITY.md](SECURITY.md). |
-| **Support** | Open a GitHub Issue, email `madhanmohanreddyperam06@gmail.com`, or contact `9110395993`. |
+
+---
+
+
+## Contact Information
+
+### Madhan Mohan Reddy
+
+- **Email**: <madhanmohanreddyperam06@gmail.com>
+- **Mobile**: +91 9110395993
+
+---
+<div align="center">
+© 2026 Campus Finder. All rights reserved.
+</div>
+
 
