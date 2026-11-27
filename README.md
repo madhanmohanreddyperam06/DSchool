@@ -323,7 +323,7 @@ DSchool/
 
 ---
 <div align="center">
-© 2026 Campus Finder. All rights reserved.
+© 2026 DSchool. All rights reserved.
 </div>
 
 
